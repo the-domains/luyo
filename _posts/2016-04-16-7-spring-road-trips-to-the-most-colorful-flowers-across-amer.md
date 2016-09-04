@@ -1,10 +1,9 @@
 ---
-datePublished: '2016-08-30T15:31:37.959Z'
+datePublished: '2016-09-01T14:17:49.856Z'
 sourcePath: >-
   _posts/2016-04-16-7-spring-road-trips-to-the-most-colorful-flowers-across-amer.md
 inFeed: true
-isBasedOnUrl: 'http://mashable.com/2016/04/15/spring-road-trips/#1t2MANqDGPqa'
-hasPage: false
+hasPage: true
 keywords:
   - wildflower
   - poppy
@@ -18,7 +17,7 @@ keywords:
   - route
 related: []
 author: []
-dateModified: '2016-08-30T15:31:37.254Z'
+dateModified: '2016-09-01T14:17:49.333Z'
 title: 7 spring road trips to the most colorful flowers across America
 app_links: []
 publisher:
@@ -36,6 +35,7 @@ inLanguage: en
 inNav: false
 via: {}
 starred: false
+url: 7-spring-road-trips-to-the-most-colorful-flowers-across-amer/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
