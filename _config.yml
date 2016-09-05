@@ -1,3 +1,4 @@
+layout_spectrum: 0.9231521235778928
 typography_spectrum: 0.34039149922318757
 color:
   brandStrength: 0.26584505871869624
@@ -5,14 +6,9 @@ color:
   saturation: 0.29467398789711297
   rhythmicContrast: 0.8095628945156932
   brandColors:
-    - '#468966'
-    - '#FFF0A5'
-    - '#FFB03B'
-    - '#B64926'
-    - '#8E2800'
-layout_spectrum: 0.9231521235778928
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
 name: LUYO
-navigation:
-  - name: 7 spring road trips to the most colorful flowers across America
-    id: bdb828e1-eb88-467f-b481-1759b7132199
-    type: content
